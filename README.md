@@ -1,1 +1,1 @@
-# age_calculator
+![Image alt](https://github.com/EkaterinaTihonenko/age_calculator/blob/main/img/screen.PNG)
